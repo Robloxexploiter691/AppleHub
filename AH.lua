@@ -1,6 +1,15 @@
+--[[
+    _    ____  ____  _     _____   _   _ _   _ ____  
+   / \  |  _ \|  _ \| |   | ____| | | | | | | | __ ) 
+  / _ \ | |_) | |_) | |   |  _|   | |_| | | | |  _ \ 
+ / ___ \|  __/|  __/| |___| |___  |  _  | |_| | |_) |
+/_/   \_\_|   |_|   |_____|_____| |_| |_|\___/|____/ 
+
+]]
+
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/Robloxexploiter691/Mobilefriendlyorion/main/Orion')))()
 
-local Window = OrionLib:MakeWindow({Name = "Script hub", HidePremium = false, IntroEnabled = false, SaveConfig = false, ConfigFolder = "OrionTest"})
+local Window = OrionLib:MakeWindow({Name = "Apple Hub", HidePremium = false, IntroEnabled = false, SaveConfig = false, ConfigFolder = "OrionTest"})
 
 local Tab = Window:MakeTab({
 	Name = "Scripts",
