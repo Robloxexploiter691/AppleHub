@@ -83,7 +83,7 @@ Tab:AddButton({
 Tab:AddButton({
 	Name = "FE Orbit Hat script NEEDS R6",
 	Callback = function()
-      		loadstring(game:HttpGet('https://pastebin.com/raw/BsJ4xfXu'))()
+      		loadstring(game:HttpGet('https://pastefy.app/pyx6witF/raw'))()
 
   	end    
 })
