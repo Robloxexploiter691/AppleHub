@@ -79,3 +79,11 @@ Tab:AddButton({
       		loadstring(game:HttpGet("https://raw.githubusercontent.com/louismich4el/Zygarde/main/Protected%20zygarde.lua"))()
   	end    
 })
+
+Tab:AddButton({
+	Name = "FE Orbit Hat script NEEDS R6",
+	Callback = function()
+      		loadstring(game:HttpGet('https://pastebin.com/raw/BsJ4xfXu'))()
+
+  	end    
+})
